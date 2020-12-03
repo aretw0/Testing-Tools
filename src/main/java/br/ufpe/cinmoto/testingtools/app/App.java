@@ -4,10 +4,7 @@ import br.ufpe.cinmoto.testingtools.banco.Conta;
 import br.ufpe.cinmoto.testingtools.banco.SaldoNaoSuficienteException;
 import br.ufpe.cinmoto.testingtools.banco.TransferenciaException;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
     public static void main( String[] args )
