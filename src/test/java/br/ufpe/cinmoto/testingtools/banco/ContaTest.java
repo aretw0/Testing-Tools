@@ -1,4 +1,4 @@
-package br.ufpe.cin.testingtools.app;
+package br.ufpe.cinmoto.testingtools.banco;
 
 import static org.junit.Assert.assertTrue;
 
@@ -7,7 +7,7 @@ import org.junit.Test;
 /**
  * Unit test for simple App.
  */
-public class AppTest 
+public class ContaTest 
 {
     /**
      * Rigorous Test :-)
